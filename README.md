@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hiya! I'm August.
 
-<!--
-**aug-octavia/aug-octavia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently trying to learn more about front-end development.
 
-Here are some ideas to get you started:
+### Likes: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Plants 🌱
+  - Music 🎶
+  - Programming 💻
+  
+### Coding Experience:
+
+  - HTML and CSS: 1.5-2 years
+  - JavaScript: <1 year
+  - Python: 1 year
